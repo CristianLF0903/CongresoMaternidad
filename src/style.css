@@ -4,3 +4,13 @@
 
 /* Incuir FontAwsome Icons */
 @import "/node_modules/@fortawesome/fontawesome-free/css/all.min.css";
+
+@font-face {
+  font-family: "Montserrat";
+  src: url("./font/Montserrat-VariableFont_wght.ttf") format("truetype");
+  /* Agrega las otras variantes de Montserrat según sea necesario */
+}
+
+body {
+  font-family: "Montserrat", sans-serif;
+}
