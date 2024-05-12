@@ -15,9 +15,6 @@
     "vite": "^5.2.0"
   },
   "dependencies": {
-    "@fortawesome/fontawesome-free": "^6.5.2",
-    "gh-pages": "^6.1.1",
-    "swiper": "^11.1.1",
-    "tw-elements": "^2.0.0"
+    "@fortawesome/fontawesome-free": "^6.5.2"
   }
 }
